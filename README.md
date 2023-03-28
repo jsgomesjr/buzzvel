@@ -1,6 +1,8 @@
 <h1 align="center">Buzzvel Challenge</h1>
 <h2 align="center">QR Code generator</h2>
 
+<h3 align="center">Website of the project: <a href="https://jsgomesjr.com">https://jsgomesjr.com</a></h3>
+
 <h3>Instructions to install the project:</h3>
 <p><strong>1: </strong>Clone the project on your computer.</p>
 <p><strong>2: </strong>Run the command "composer update".</p>
